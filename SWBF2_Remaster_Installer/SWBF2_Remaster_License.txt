@@ -1,0 +1,25 @@
+﻿Star Wars Battlefront II Remaster Project 2.0
+=============================================
+
+> Unofficial Patch 1.3 [UnOfficial v1.3 Patch r130]
+https://www.moddb.com/games/star-wars-battlefront-ii/downloads/unofficial-v13-patch-r130/
+
+> Widescreen/High Resolution Patch [SWBF2 HD | swbf2 remaster v1.2]
+https://www.moddb.com/mods/star-wars-battlefront-ii-full-hd-interface/downloads/swbf2-remaster-v12
+
+> Improved Graphics & Effects [HD Graphics Mod 2.0]
+https://www.moddb.com/mods/hd-graphics-mod/downloads/2019-graphics-mod-20
+
+> Improved 3D Models & Textures [SWBF2 Improved Sides Mod 1.0]
+https://www.moddb.com/mods/improved-sides-mod/downloads/improved-sides-mod-10
+
+> Improved Maps [Realistic & Rezzed Maps by Harrisonfog]
+https://www.moddb.com/mods/realistic-maps-by-harrisonfog-rezzed/downloads
+
+> Multiplayer Fix [SWBFSpy GameMaster replacement of the GameSpy GameMaster | SWBF2 Patch (PC-ENG)]
+http://info.swbfgamers.com/
+
+===============================================
+
+> Installer made by Frogbull using NSIS (Nullsoft Scriptable Install System)
+> Installer illustrations made by Liam Brazier and Alessandro Pautasso
